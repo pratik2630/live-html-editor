@@ -8,8 +8,8 @@ nav{
     background-color: rgb(28, 25, 25);
     color: rgb(81, 247, 100);
     padding: 10px;
-    font-size: 160%;
-    height: 06vh;
+    font-size: 1.5em;
+    height: 2rem;
     text-align: center;
     text-shadow: 5px 5px 15px rgb(42, 227, 230) ;
     border-radius: 10px;
@@ -20,7 +20,7 @@ nav{
 i{
     padding: 5px;
     margin-left: 5px;
-    size: 40px;
+    size: 160%;
 }
 
 #top__div , #bottom__div{
