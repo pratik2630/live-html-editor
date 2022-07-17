@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Libre Baskerville', serif;
+    background-color: rgb(20, 0, 0);
+}
+nav{
+    background-color: rgb(28, 25, 25);
+    color: rgb(81, 247, 100);
+    padding: 10px;
+    font-size: 5vh;
+    height: 06vh;
+    text-align: center;
+    text-shadow: 5px 5px 15px rgb(42, 227, 230) ;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 10px rgb(175, 81, 247) ;
+}
+
+i{
+    padding: 5px;
+    margin-left: 5px;
+    size: 40px;
+}
+
+#top__div , #bottom__div{
+    display: flex;
+    width: 100%;
+    height: 42vh;
+    
+ 
+}
+#text_style {
+   font-size: 2vh; 
+}
+
+#top__div textarea{
+    height: 88.5%;
+    width: 96.5%;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 0;
+    resize: none;
+    font-size: 15px;
+    padding: 6px;
+    color: rgb(208, 219, 134);
+    background-color:black;
+}
+#bottom__div{
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#html , #css , #js{
+    margin: 5px;
+    width: 33.33%;
+    height: 100%;
+    border: 1px solid black;
+    background-color: #34363e;
+    border-radius: 5px;
+    border: solid rgb(111, 81, 247) 1px;
+    text-align: center;
+    color: lime;
+    box-shadow: 2px 2px 10px rgb(175, 81, 247) ;
+
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    border: solid rgb(111, 81, 247) 2px;
+    
+}
+
